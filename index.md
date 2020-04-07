@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Pelin Balcı's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Pelin Balcı
+Industrial Engineer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,41 +13,34 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Looking for opportunities
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Pyhton for Data Analysis and Data Science, A/B Testing, Mathematical Modelling, Operations Research, Pricing & Hedging, 
+Portfolio Optimization
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, Statistical Analysis, Time Series Modelling, Discrete Optimization
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010- 1013`
+__Bilkent University, Industrial Engineering Department, Master of Science.__
+GPA: 3.09 / 4.00
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- http://repository.bilkent.edu.tr/handle/11693/16920
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2005 - 2010`
+__Gazi University, Industrial Engineering Department, Bachelor's__
+GPA: 3.44 / 4.00
 
 
+## Presentation
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+P. Balcı, B. Tansel "Analysis of Locations of Existing Fire Stations in Ankara in Comparison to Optimized Locations.," International IIE Conference, The Global Reach of Industrial Engineering, Istanbul / Turkey, June 26 - 28, 2013
 
 
 
